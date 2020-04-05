@@ -29,31 +29,24 @@ body{
     text-shadow: 1px 1px black;
     background-color: white;
     background-color: rgba(159, 168, 170, 0.5);
-    
     padding: 50px 50px 50px 50px;
-    /*margin-bottom: 5%;
-    position: absolute;
-    bottom: 0;
-    width: 100%;*/
-
     position: absolute;
     bottom: 20px;
     left: 20px;
 }
 
 .devteam{
-    background-color: lavenderblush;
+    background-color: rgb(243, 242, 242);
+}
+
+.devteam section{
+    padding: 20px 20px 20px;
 }
 
 .join{
     background-color: rgb(219, 219, 219);
     padding: 20px 20px 20px 20px;
     margin: 10px 30px 10px 30px;
-    
-    /*
-    list-style: none;
-    display: inline-block;
-    */
 }
 
 .join li{
